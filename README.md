@@ -1,4 +1,4 @@
-# MVVM-Notes-app
+# Notes app by using MVVM(ModelViewViewModel)
 This is simple notes app that follows MVVM architectural design pattern and uses android jetpack components.
 
 ## MVVM Architecture
@@ -25,33 +25,24 @@ __MVVM__ - MVVM stands for Model, View, ViewModel. MVVM is one of the architectu
           It also uses RecyclerView with DiffUtill to improves overall app performances
 
 ## Features:-
-1. Save Note In a Local db
-2. Update
-3. Swipe To Delete
-4. Search
-5. Color Picker (Colorful notes)
-5. RecyclerView Animations
-
-## App ScreenShots:-
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/60071765/94704102-302c8d00-035d-11eb-9035-e04487341b14.gif)
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/60071765/94704994-28211d00-035e-11eb-859a-7ed354b1e2be.gif)
+1. Can save Note In a Local database
+2.  Swipe To Delete
+3.  Update
+4. Colorful notes
+5. Search for Notes created
+7. RecyclerView Animations
 
 
-
-
-![screenshot_20200930-192853_not](https://user-images.githubusercontent.com/60071765/94698129-9feb4980-0356-11eb-836b-859bfc29bd01.png)
-![screenshot_20200930-192914_not](https://user-images.githubusercontent.com/60071765/94698702-33bd1580-0357-11eb-873e-df51a27ff3e7.png)
 
 ## Libraries Used:-
    <h4>Library used</h4>
 <ul>
 <li><a href="https://developer.android.com/topic/libraries/architecture/room" target="_blank">Room</a></li>
 <li><a href="https://developer.android.com/topic/libraries/architecture/viewmodel" target="_blank">Viewmodel</a></li>
+<li><a href="https://developer.android.com/guide/navigation/navigation-getting-started" target="_blank">Navigation Component</a></li>
 <li><a href="https://developer.android.com/topic/libraries/architecture/livedata">Livedata</a></li>
 <li><a href="https://developer.android.com/kotlin/coroutines" target="_blank">Coroutines</a></li>
-<li><a href="https://material.io/develop/android/docs/getting-started/" target="_blank">Material library</a></li>
-<li><a href="https://developer.android.com/guide/navigation/navigation-getting-started" target="_blank">Navigation Component</a></li>
+<li><a href="https://material.io/develop/android/docs/getting-started/" target="_blank">Material library</a></li>          
    
 </ul>
 
