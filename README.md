@@ -3,7 +3,19 @@ This is simple notes app that follows MVVM architectural design pattern and uses
 
 ## MVVM Architecture
 
-__MVVM__ - MVVM stands for Model, View, ViewModel. MVVM is one of the architectural patterns which enhances separation of concerns, it allows separating the user interface logic from the business (or the back-end) logic. Its target is to achieve the following principle “Keeping UI code simple and free of app logic in order to make it easier to manage”.          
+__MVVM__ - MVVM stands for Model, View, ViewModel. MVVM is one of the architectural patterns which enhances separation of concerns, it allows separating the user interface logic from the business (or the back-end) logic. Its target is to achieve the following principle “Keeping UI code simple and free of app logic in order to make it easier to manage”.      
+ 
+ ## Screenshots
+ 
+ <img src="https://camo.githubusercontent.com/..." data-canonical-src="https://user-images.githubusercontent.com/56357841/131119795-06a79b3f-fd6e-4fb4-b06f-93fcd0e57f52.jpg" width="250" height="350" />
+ 
+![152f0574-b510-4703-9ee0-1045fb786735](https://user-images.githubusercontent.com/56357841/131119795-06a79b3f-fd6e-4fb4-b06f-93fcd0e57f52.jpg)
+![351de55a-b24a-45ac-902d-47b56ccdf6e8](https://user-images.githubusercontent.com/56357841/131119825-e01d8215-e140-4247-a2cb-60f0a120ffde.jpg)
+![dcaa9c38-7f9c-45cc-b7c4-1db8090f0da2](https://user-images.githubusercontent.com/56357841/131119836-09578b55-b296-473c-8850-678cb0233c58.jpg)
+![e7c0115f-de02-40ca-abc1-ee0f5e34f729](https://user-images.githubusercontent.com/56357841/131119845-2a95bc23-db94-4485-91b4-d6e251d066e0.jpg)
+![ebdf521c-bd37-454f-ad0b-1d0760ddb88c](https://user-images.githubusercontent.com/56357841/131119865-020d7157-33b8-4516-945d-b031141ca128.jpg)
+
+
 
 
 
