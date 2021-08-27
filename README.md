@@ -7,10 +7,10 @@ __MVVM__ - MVVM stands for Model, View, ViewModel. MVVM is one of the architectu
  
  ## Screenshots
 ![152f0574-b510-4703-9ee0-1045fb786735](https://user-images.githubusercontent.com/56357841/131113467-6dfbbb00-5e61-432a-b00f-cde9b4544953.jpg)
-
-
-
-
+![351de55a-b24a-45ac-902d-47b56ccdf6e8](https://user-images.githubusercontent.com/56357841/131117741-77648036-4496-43c7-a408-d2a4d23fbccc.jpg)
+![dcaa9c38-7f9c-45cc-b7c4-1db8090f0da2](https://user-images.githubusercontent.com/56357841/131117795-1839851d-676f-43d7-b722-f1ef27423d25.jpg)
+![e7c0115f-de02-40ca-abc1-ee0f5e34f729](https://user-images.githubusercontent.com/56357841/131117818-a10597e0-3d83-4b35-9d3f-26148e5e5223.jpg)
+![ebdf521c-bd37-454f-ad0b-1d0760ddb88c](https://user-images.githubusercontent.com/56357841/131117840-fe7a80ae-112f-4617-bb1a-abcb46e8ba52.jpg)
 
 
 ## Android Jetpack components:-
