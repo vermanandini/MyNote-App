@@ -7,10 +7,10 @@ __MVVM__ - MVVM stands for Model, View, ViewModel. MVVM is one of the architectu
  
  ## Screenshots
  <img height=500 width=220 src="Screenshot/1.png.jpg">
- <img src="Screenshot/1.png.jpg">
- <img src="Screenshot/1.png.jpg">
- <img src="Screenshot/1.png.jpg">
- <img src="Screenshot/1.png.jpg">
+ <img height=500 width=220 src="Screenshot/2.png.jpg">
+ <img height=500 width=220 src="Screenshot/3.png.jpg">
+ <img height=500 width=220 src="Screenshot/4.png.jpg">
+ <img height=500 width=220 src="Screenshot/5.png.jpg">
  
 ## Android Jetpack components:-
 1. __Navigation Components__ - Navigation component helps you implement navigation, from simple button clicks to more complex patterns, such as app bars and the navigation drawer. The Navigation component also ensures a consistent and predictable user experience by adhering to an established set of principles.
