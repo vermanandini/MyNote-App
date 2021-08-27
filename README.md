@@ -7,7 +7,7 @@ __MVVM__ - MVVM stands for Model, View, ViewModel. MVVM is one of the architectu
  
  ## Screenshots
  
- <img height=400 width=200 src="![152f0574-b510-4703-9ee0-1045fb786735](https://user-images.githubusercontent.com/56357841/131113467-6dfbbb00-5e61-432a-b00f-cde9b4544953.jpg)">
+ <img height=250 width=250 src="![152f0574-b510-4703-9ee0-1045fb786735](https://user-images.githubusercontent.com/56357841/131113467-6dfbbb00-5e61-432a-b00f-cde9b4544953.jpg)">
 <p>
 
   <img src="![351de55a-b24a-45ac-902d-47b56ccdf6e8](https://user-images.githubusercontent.com/56357841/131117741-77648036-4496-43c7-a408-d2a4d23fbccc.jpg)" width="100" height="100">
