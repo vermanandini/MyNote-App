@@ -6,6 +6,11 @@ This is simple notes app that follows MVVM architectural design pattern and uses
 __MVVM__ - MVVM stands for Model, View, ViewModel. MVVM is one of the architectural patterns which enhances separation of concerns, it allows separating the user interface logic from the business (or the back-end) logic. Its target is to achieve the following principle “Keeping UI code simple and free of app logic in order to make it easier to manage”.      
  
  ## Screenshots
+ <img height=500 width=220 src="Screenshot/1.png.jpg">
+ <img src="Screenshot/1.png.jpg">
+ <img src="Screenshot/1.png.jpg">
+ <img src="Screenshot/1.png.jpg">
+ <img src="Screenshot/1.png.jpg">
  
 ## Android Jetpack components:-
 1. __Navigation Components__ - Navigation component helps you implement navigation, from simple button clicks to more complex patterns, such as app bars and the navigation drawer. The Navigation component also ensures a consistent and predictable user experience by adhering to an established set of principles.
