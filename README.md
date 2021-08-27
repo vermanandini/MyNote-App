@@ -6,7 +6,10 @@ This is simple notes app that follows MVVM architectural design pattern and uses
 __MVVM__ - MVVM stands for Model, View, ViewModel. MVVM is one of the architectural patterns which enhances separation of concerns, it allows separating the user interface logic from the business (or the back-end) logic. Its target is to achieve the following principle “Keeping UI code simple and free of app logic in order to make it easier to manage”.      
  
  ## Screenshots
- <img src="![152f0574-b510-4703-9ee0-1045fb786735](https://user-images.githubusercontent.com/56357841/131113467-6dfbbb00-5e61-432a-b00f-cde9b4544953.jpg)" width="100" height="100">
+ 
+ <img height=400 width=200 src="![152f0574-b510-4703-9ee0-1045fb786735](https://user-images.githubusercontent.com/56357841/131113467-6dfbbb00-5e61-432a-b00f-cde9b4544953.jpg)">
+<p>
+
   <img src="![351de55a-b24a-45ac-902d-47b56ccdf6e8](https://user-images.githubusercontent.com/56357841/131117741-77648036-4496-43c7-a408-d2a4d23fbccc.jpg)" width="100" height="100">
    <img src="![dcaa9c38-7f9c-45cc-b7c4-1db8090f0da2](https://user-images.githubusercontent.com/56357841/131117795-1839851d-676f-43d7-b722-f1ef27423d25.jpg)" width="100" height="100">
     <img src="
